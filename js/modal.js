@@ -14,5 +14,3 @@ modalCarrito.addEventListener('click', (event) => {
 
 });
 
-
-
